@@ -1,3 +1,4 @@
 # odin-recipes
-Recipes website using HTML only
-I have typed this brief summary using the echo command from terminal
+Recipes website using HTML & CSS only...for now.
+
+Completing an assignment as per the Odin Project website
